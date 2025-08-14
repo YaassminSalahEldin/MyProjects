@@ -2,7 +2,7 @@
 this repo is created by yassmin salah
 # Chatbot Notebook
 
-This repository contains the **chatting(2).ipynb** Jupyter Notebook, which demonstrates chatbot functionality and conversation logic.
+This repository contains the **Egypatian_Translation.ipynb** colab Notebook, which demonstrates chatbot functionality and conversation logic.
 
 ## 📌 Features
 - Interactive chatbot conversation.
