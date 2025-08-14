@@ -1,5 +1,4 @@
 #MyProjects
-this is the test repo
 this repo is created by yassmin salah
 # Chatbot Notebook
 
